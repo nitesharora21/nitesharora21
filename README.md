@@ -10,7 +10,7 @@
 
 ## 🚀 What I Build
 
-I'm obsessed with **large-scale distributed systems**, **ML infrastructure**, and making compute resources work smarter. I spend my time architecting systems that process hundreds of commits daily, managing bare-metal clusters, and building AI-driven optimizers that cut waste by 40%.
+I'm obsessed with **large-scale distributed systems**, **ML infrastructure**, and making compute resources work smarter. I spend my time architecting systems that process hundreds of commits daily, managing bare-metal clusters, and building AI-driven optimizers.
 
 ### Core Passion Areas
 
@@ -18,16 +18,16 @@ I'm obsessed with **large-scale distributed systems**, **ML infrastructure**, an
 I love building multi-threaded, event-driven systems that coordinate complex workflows across hundreds of machines. Dynamic resource allocation, load balancing across heterogeneous hardware, and achieving sub-second latency in orchestration layers gets me excited. My sweet spot is designing schedulers that intelligently distribute workload while maintaining 99.8%+ uptime.
 
 **ML-Powered Infrastructure Optimization**  
-Applying machine learning to real infrastructure problems is where I thrive. I've built [TimeBox](https://blogs.cisco.com/innovation/optimizing-cloud-resources-reducing-your-carbon-footprint-with-timebox) — a time-series forecasting system using gradient boosting for workload prediction. I'm passionate about using Random Forests, ensemble methods, and distributed training to solve capacity planning and predictive quality problems at scale.
+Applying machine learning to real infrastructure problems is where I thrive. I've built [TimeBox](https://blogs.cisco.com/innovation/optimizing-cloud-resources-reducing-your-carbon-footprint-with-timebox) — a time-series forecasting system using genetic algorithm for workload prediction. I'm passionate about using Random Forests, ensemble methods, and distributed training to solve capacity planning and predictive quality problems at scale.
 
 **CI/CD Pipeline Architecture**  
-Pre-commit and post-commit validation systems fascinate me. I build tools that integrate 50+ downstream systems, orchestrate parallel validation paths, and provide sub-linear scaling characteristics. The challenge of making complex pipelines feel instantaneous to developers is what drives me.
+I currently work as a senior software engineer in Cisco and build tools that integrate 50+ downstream systems, orchestrate parallel validation paths, and provide sub-linear scaling characteristics. The challenge of making complex pipelines feel instantaneous to developers is what drives me.
 
 **Cryptographic Fingerprinting & Security**  
 I've designed systems that encode intellectual capital through one-way fingerprinting for ML model ingestion. Working with crypto libraries to build tamper-proof telemetry pipelines that feed into defect prediction models is incredibly satisfying. [Patent awarded](https://patents.google.com/patent/US20210326412A1/en) for this work.
 
 **ETL & Data Pipeline Engineering**  
-Building asynchronous data pipelines that consolidate multi-source streams into unified models is my bread and butter. I love the challenge of parsing, cleaning, and transforming heterogeneous data at scale — turning 6-day manual processes into 10-second automated ones.
+Building asynchronous data pipelines that consolidate multi-source streams into unified models. I've successfully built from scratch multiple tools, end-to-end requiring parsing, cleaning, and transforming heterogeneous data at scale — and in one project, turning 6-day manual processes into 10-second automated ones.
 
 ---
 
@@ -84,19 +84,16 @@ Building asynchronous data pipelines that consolidate multi-source streams into 
 ## 🧠 Interesting Problems I've Solved
 
 **Resource Scheduler for 900+ Bare-Metal Servers**  
-Designed dynamic allocation algorithms that distribute build workloads across a heterogeneous cluster. The challenge: minimize idle time while respecting hardware constraints, thermal limits, and priority queues. Solution involved building custom heuristics that outperformed naive round-robin by 40%.
+Designed dynamic allocation algorithms that distribute build workloads across a heterogeneous cluster. The challenge: minimize idle time while respecting hardware constraints and priority queues. Solution involved building custom heuristics that outperformed naive round-robin.
 
 **AI-Driven Workload Predictor**  
-Built ML models that analyze historical usage patterns to predict future compute demand. Used time-series forecasting with gradient boosting to optimize scheduling decisions. The system actively prevents resource contention and reduces cloud waste through intelligent pre-allocation.
+Built ML models that analyze historical usage patterns to predict future compute demand. Used time-series forecasting with genetic algorithm and gradient boosting to optimize scheduling decisions. The system actively prevents resource contention and reduces cloud waste through intelligent pre-allocation.
 
 **Cryptographic Device Fingerprinting Pipeline**  
 Engineered a system that creates tamper-proof device signatures using one-way hashing, feeding telemetry into Random Forest models for defect prediction. The fingerprinting approach ensures data integrity while enabling ML inference on sensitive hardware telemetry from millions of devices.
 
-**Multi-Source ETL with Unified Schema**  
-Built asynchronous pipelines that ingest data from CUDB, HLR, and HSS nodes, normalize schemas, and present unified views. Solved the challenge of handling schema drift across telecom infrastructure while maintaining real-time dashboard updates.
-
 **Automated Test Framework with Remote Execution**  
-Created a test orchestration system that decouples UI from logic layers in large-scale Java applications. Used CORBA middleware and Façade pattern to enable headless test execution without rebuilding. Cut nightly regression time by 70%.
+Created a test orchestration system that decouples UI from logic layers in large-scale Java applications. Used CORBA middleware and Façade pattern to enable headless test execution without rebuilding.
 
 ---
 
@@ -114,7 +111,7 @@ Co-inventor on a novel approach to encoding device telemetry for ML-driven quali
 ## 🎓 Academic Background
 
 **MS Computer Science** | *Machine Learning Specialization* | Georgia Institute of Technology | **3.8 GPA**  
-Coursework: Deep Learning, Reinforcement Learning, ML Theory, Distributed Computing
+Coursework: Deep Learning, Reinforcement Learning, Artificial Intelligence, Machine Learning for Trading
 
 **BEng Computer Engineering** | Concordia University
 
