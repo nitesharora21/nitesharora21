@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/Email-nitesharora21%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nitesharora21@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-nitesharora21-181717?style=flat&logo=github&logoColor=white)](https://github.com/nitesharora21)
 
-**MS Computer Science (Machine Learning)** • Georgia Tech • **Distributed Systems Engineer**
+**MS Computer Science (Machine Learning)** • Georgia Tech • **Senior Infrastructure Engineer | Distributed Systems**
 
 ---
 
