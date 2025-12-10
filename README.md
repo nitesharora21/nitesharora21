@@ -168,7 +168,7 @@ Writing custom Kubernetes operators for ML-specific workflows — automated GPU 
 
 I love talking about distributed systems architecture, ML infrastructure challenges, and performance optimization war stories.
 
-**Open to discussing**: Staff/Principal Engineer roles | ML Infrastructure | Build/Release Engineering at Scale
+**Open to discussing**: Senior/Tech Leader Engineer roles | ML Infrastructure | Build/Release Engineering at Scale
 
 ---
 
