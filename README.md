@@ -135,9 +135,6 @@ I thrive in environments where I can architect systems from scratch, own the ful
 **End-to-End ML Pipeline Orchestration**  
 Building production-grade ML pipelines with Kubeflow and MLflow for model versioning, experiment tracking, and automated retraining workflows. Exploring feature stores (Feast, Tecton) for low-latency feature serving and managing feature drift in production environments.
 
-**MLOps & Model Deployment at Scale**  
-Deep-diving into model serving infrastructure with TorchServe and TensorFlow Serving, implementing A/B testing frameworks for gradual rollouts, and building monitoring systems for model performance degradation detection. Working on automated retraining triggers based on data drift metrics using Evidently AI.
-
 **LLM Fine-tuning & Parameter-Efficient Methods**  
 Experimenting with LoRA (Low-Rank Adaptation) and QLoRA for memory-efficient fine-tuning of large language models. Exploring PEFT (Parameter-Efficient Fine-Tuning) techniques, quantization strategies (INT8/INT4), and distributed training across multi-GPU setups using DeepSpeed and FSDP (Fully Sharded Data Parallel).
 
@@ -149,15 +146,6 @@ Building production RAG (Retrieval-Augmented Generation) systems with focus on:
 - Embedding model selection and fine-tuning for domain-specific retrieval
 - Reranking pipelines with cross-encoders for precision improvements
 - Context compression techniques to maximize token utilization
-
-**Advanced Distributed Training**  
-Implementing model parallelism (pipeline, tensor, sequence) for training models that don't fit on single GPUs. Exploring gradient accumulation strategies, mixed precision training (FP16/BF16), and communication optimization in multi-node setups. Profiling NCCL/GLOO backends for optimal inter-GPU bandwidth.
-
-**Reinforcement Learning for Systems Optimization**  
-Applying PPO (Proximal Policy Optimization) and DQN variants to dynamic resource allocation problems. Building gym-style environments for modeling distributed system behavior and training agents for intelligent job scheduling and capacity planning.
-
-**Kubernetes Operators for ML Workloads**  
-Writing custom Kubernetes operators for ML-specific workflows — automated GPU allocation, spot instance management for training jobs, and custom schedulers that understand model training phases (data loading, forward pass, backprop) for optimal resource packing.
 
 ---
 
