@@ -125,11 +125,11 @@ I thrive in environments where I can architect systems from scratch, own the ful
 
 ## 🔍 Currently Exploring
 
-**End-to-End ML Pipeline Orchestration**  
-Building production-grade ML pipelines with Kubeflow and MLflow for model versioning, experiment tracking, and automated retraining workflows. Exploring feature stores (Feast, Tecton) for low-latency feature serving and managing feature drift in production environments.
-
 **LLM Fine-tuning & Parameter-Efficient Methods**  
 Experimenting with LoRA (Low-Rank Adaptation) and QLoRA for memory-efficient fine-tuning of large language models. Exploring PEFT (Parameter-Efficient Fine-Tuning) techniques, quantization strategies (INT8/INT4), and distributed training across multi-GPU setups using DeepSpeed and FSDP (Fully Sharded Data Parallel).
+
+**End-to-End ML Pipeline Orchestration**  
+Building production-grade ML pipelines with Kubeflow and MLflow for model versioning, experiment tracking, and automated retraining workflows. Exploring feature stores (Feast, Tecton) for low-latency feature serving and managing feature drift in production environments.
 
 **RAG Architecture & Vector Databases**  
 Building production RAG (Retrieval-Augmented Generation) systems with focus on:
